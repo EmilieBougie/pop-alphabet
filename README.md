@@ -2,9 +2,11 @@
 Jeu de carte alphabet pour atelier participatif
 
 ## Gabarit de découpe
-Gabarit pour la découpe laser (1 calque de gravure, 1 calque de découpe).
+Les gabarits pour la découpe laser (1 calque de gravure, 1 calque de découpe) sont disponible en SVG dans le dépôt. Les gabarits sont prévus pour 2 planches de 600mmx400mm.
 
-Nous avons réalisé nos carte en MDF 3mm. La partie basse sous chaque lettre est peinte en peinture à tableau (utilisable avec des craies ou des marqueurs "craie")
+Nous avons réalisé nos cartes en MDF 3mm. La partie basse sous chaque lettre est peinte en peinture à tableau (utilisable avec des craies ou des marqueurs "craie")
+
+
 
 ## Méthode
 Autour d'un thème donné par l'animateur, les participants piochent une ou plusieurs cartes lettres au hasard et inscrivent un mot qu'ils rattachent au thème commençant par cette lettre.
