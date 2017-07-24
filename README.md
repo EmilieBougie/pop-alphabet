@@ -4,7 +4,7 @@ Jeu de carte alphabet pour atelier participatif
 ![Cartes vierges](https://github.com/popuplille/pop-alphabet/blob/master/popalphabet1.jpg)
 
 ## Gabarit de découpe
-Les gabarits pour la découpe laser (1 calque de gravure, 1 calque de découpe) sont disponible en SVG dans le dépôt. Les gabarits sont prévus pour 2 planches de 600mmx400mm.
+Les gabarits pour la découpe laser (1 calque de gravure, 1 calque de découpe) sont disponibles en SVG dans le dépôt. Les gabarits sont prévus pour 2 planches de 600mmx400mm.
 
 Nous avons réalisé nos cartes en MDF 3mm. La partie basse sous chaque lettre est peinte en peinture à tableau (utilisable avec des craies ou des marqueurs "craie")
 
@@ -16,6 +16,6 @@ Selon le types d'atelier qui suivent l'alphabet, les cartes pourront être réex
 
 ## Intérêt, contexte
 Cet atelier permet de démarrer une session plus longue en mettant en action les participants et d'explorer collectivement les "contours" d'un thème du point de vue du groupe.
-La contrainte de la lettre imposée par l'exercice d'alphabet va obliger à des associations d'idées plus "poussée" que si on laissait librement choisir un mot au participant.
+La contrainte de la lettre imposée par l'exercice d'alphabet va obliger à des associations d'idées plus "poussées" que si on laissait librement choisir un mot au participant.
 
 ![Cartes en utilisation](https://github.com/popuplille/pop-alphabet/blob/master/popalphabet2.jpg)
